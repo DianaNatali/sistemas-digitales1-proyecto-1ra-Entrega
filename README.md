@@ -1,6 +1,6 @@
 # Proyecto - 1ra entrega
 
-## Intregrantes
+## Integrantes
 
 
 ## Documentación
